@@ -1,0 +1,15 @@
+body{
+    background: teal;
+}
+
+img{
+    object-fit: cover;
+}
+
+img:hover{
+    opacity: 80%;
+}
+
+.frame-img:hover{
+    opacity: 80%;
+}

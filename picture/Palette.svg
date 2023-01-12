@@ -1,0 +1,8 @@
+<svg id="palettesvg" width="930" height="425" viewBox="0 0 930 425" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path class="palettesvgcolumn" d="M155 0H0V425H155V0Z" fill="#9b15cb"></path>
+      <path class="palettesvgcolumn" d="M310 0H155V425H310V0Z" fill="#b525e8"></path>
+      <path class="palettesvgcolumn" d="M465 0H310V425H465V0Z" fill="#c34fed"></path>
+      <path class="palettesvgcolumn" d="M620 0H465V425H620V0Z" fill="#d179f1"></path>
+      <path class="palettesvgcolumn" d="M775 0H620V425H775V0Z" fill="#e0a3f5"></path>
+      <path class="palettesvgcolumn" d="M930 0H775V425H930V0Z" fill="#f1d6fb"></path>
+    </svg>

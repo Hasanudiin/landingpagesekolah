@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* border: 1px solid; */
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.image-class{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.main{
+    background-color: #212121;
+    height: 90vh;
+}
+
+.kelas7{
+    /* gap: 40px; */
+    color: aliceblue;
+}
+
+.kelas8{
+    color: #212121;
+}
+.kelas9{
+    /* gap: 40px; */
+    color: aliceblue;
+}
+
+
+.textArea{
+    /* width: 100vh; */
+    margin-top: 20px;
+    box-sizing: border-box;
+    text-align: start;
+    position: relative;
+    text-align: justify;
+}
+
+strong{
+    font-size: 2rem;
+    color: goldenrod;
+}
+
+#icon-class{
+    background: linear-gradient(17deg, rgb(9, 184, 184), rgb(7, 137, 207));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation-name: misi;
+    margin-left: 10px;
+    font-size: 3rem;
+}
+#icon-class9{
+    background: linear-gradient(17deg, rgb(9, 184, 184), rgb(7, 137, 207));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation-name: misi;
+    margin-left: 10px;
+    font-size: 2rem;
+}
+
+
+
+.main-2{
+    height: 90vh;
+}
+
+/* hp*/
+@media screen and (max-width: 576px) {
+    strong{
+        font-size: 1.3rem;
+    }
+    .image-top{
+        width: 400px
+    }
+    h1{
+        text-align: center;
+    }
+
+}
+
+
+@media screen and (min-width: 768px) {
+    .image-top{
+        width: 7500px;
+    }
+}
+
+@media screen and (max-width: 960px) {
+.imgbot-8{
+    display: none;
+}
+}
+@media screen and (min-width: 961px) {
+.imgtop-8{
+    display: none;
+}
+}
